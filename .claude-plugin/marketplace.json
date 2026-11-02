@@ -1,0 +1,7 @@
+{
+  "name": "pins-demo",
+  "owner": { "name": "Demo Publisher" },
+  "plugins": [
+    { "name": "lint-rules", "source": "./plugins/lint-rules", "description": "Declares version 1.0.0 in plugin.json" }
+  ]
+}
